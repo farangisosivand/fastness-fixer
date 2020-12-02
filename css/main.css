@@ -42,12 +42,12 @@ h2 {
     margin-top: 0;
   }
 
-  .nav {
-    padding-top: .2rem;
-  }
-
   .move {
     margin-bottom: 0;
+  }
+
+  .nav {
+    padding-top: .2rem;
   }
 
 }
